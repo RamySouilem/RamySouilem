@@ -40,4 +40,5 @@ I am a front-end developper from Tunisia.
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamySouilem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamySouilem&show_icons=true)
+
