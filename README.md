@@ -23,7 +23,7 @@ I am a front-end developper from Tunisia.
 
 - :zap: I used to be a UX/UI designer which gave the curiosity to learn coding 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souilem-ramy-b35a1a226/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RamySouilem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souilem-ramy-b35a1a226/)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
